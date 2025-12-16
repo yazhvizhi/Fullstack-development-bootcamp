@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(32, 12, 12);
+    color: rgb(193, 220, 17);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding-top: 50px;
+}
+.poster{
+    border: 40px ;
+    width: 300px;
+    margin: auto;
+}
+.image{
+    width: 100%;
+    border: 5px solid goldenrod
+}
+.one{
+    font-size: 1rem;
+    margin-top: 20px;
+    letter-spacing: 1px;
+    font-family: cursive;
+}
+.two{
+    font-size: rem;
+    margin-top: 10px;
+}
